@@ -1,0 +1,5 @@
+loguru
+gym
+gym-super-mario-bros
+torch
+stable-baselines3[extra]
